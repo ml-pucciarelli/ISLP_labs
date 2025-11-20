@@ -9,6 +9,7 @@ __pycache__/
 *.ipynb_meta
 
 # Python environments
+isl_env/
 env/
 venv/
 .venv/
@@ -49,4 +50,3 @@ share/python-wheels/
 # IDEs
 .vscode/
 .idea/
-
